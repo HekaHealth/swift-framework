@@ -1,0 +1,11 @@
+framework module HCFramework {
+  umbrella header "HCFramework.h"
+  export *
+
+  module * { export * }
+}
+
+module HCFramework.Swift {
+  header "HCFramework-Swift.h"
+  requires objc
+}
