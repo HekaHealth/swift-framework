@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
     s.ios.deployment_target = '11.0'
     s.swift_version = '5.0'
     s.vendored_frameworks = "HCFramework.xcframework"
-	s.platform = :ios, '9.0'
+	s.platform = :ios, '11.0'
 	s.requires_arc = true
   end
