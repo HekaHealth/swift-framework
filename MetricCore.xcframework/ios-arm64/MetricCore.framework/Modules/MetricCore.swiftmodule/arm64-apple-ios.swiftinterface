@@ -1,0 +1,43 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target arm64-apple-ios17.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MetricCore
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+import HealthKit
+@_exported import MetricCore
+import Security
+import Swift
+import SystemConfiguration
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public struct ConnectedPlatform {
+}
+public struct Connection {
+  public func isPlatformConnected(platform: Swift.String) -> Swift.Bool
+}
+public struct HekaCore {
+  public var text: Swift.String {
+    get
+  }
+  public init()
+}
+public typealias ConnectionCompletion = (Swift.Result<MetricCore.Connection, any Swift.Error>) -> Swift.Void
+public struct ConnectionClient {
+  public init(apiKey: Swift.String, userUUID: Swift.String, platform: Swift.String)
+  public func fetchConnection(with completion: @escaping MetricCore.ConnectionCompletion)
+  public func connectToServer(forUserWithEmail userEmail: Swift.String? = nil, and googleFitRefreshToken: Swift.String? = nil, with completion: @escaping MetricCore.ConnectionCompletion)
+  public func disconnect(with completion: @escaping MetricCore.ConnectionCompletion)
+}
+public class HekaManager {
+  public init()
+  public func requestAuthorization(completion: @escaping (Swift.Bool) -> Swift.Void)
+  public func stopSyncing(completion: @escaping (Swift.Bool) -> Swift.Void)
+  public func syncIosHealthData(apiKey: Swift.String, userUuid: Swift.String, lastSyncDate: Foundation.Date? = nil, completion: @escaping (Swift.Bool) -> Swift.Void)
+  public func installObservers()
+  public func getAggregatedValueForDataType(dataType: Swift.String, startDate: Foundation.Date, endDate: Foundation.Date, completion: @escaping (Swift.Double?) -> Swift.Void)
+  public func getMenstrualData(startDate: Foundation.Date, endDate: Foundation.Date, completion: @escaping ([Foundation.NSDictionary]) -> Swift.Void)
+  @objc deinit
+}
+public func getDeviceId() -> Swift.String

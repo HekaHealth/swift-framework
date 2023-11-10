@@ -1,0 +1,11 @@
+framework module MetricCore {
+  umbrella header "MetricCore.h"
+  export *
+
+  module * { export * }
+}
+
+module MetricCore.Swift {
+  header "MetricCore-Swift.h"
+  requires objc
+}
