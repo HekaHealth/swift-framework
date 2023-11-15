@@ -69,8 +69,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "HekaCore",
-        "printedName": "HekaCore",
+        "name": "MetricHealthCore",
+        "printedName": "MetricHealthCore",
         "children": [
           {
             "kind": "Var",
@@ -85,8 +85,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:10MetricCore04HekaB0V4textSSvp",
-            "mangledName": "$s10MetricCore04HekaB0V4textSSvp",
+            "usr": "s:10MetricCore0a6HealthB0V4textSSvp",
+            "mangledName": "$s10MetricCore0a6HealthB0V4textSSvp",
             "moduleName": "MetricCore",
             "declAttributes": [
               "HasInitialValue",
@@ -109,8 +109,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10MetricCore04HekaB0V4textSSvg",
-                "mangledName": "$s10MetricCore04HekaB0V4textSSvg",
+                "usr": "s:10MetricCore0a6HealthB0V4textSSvg",
+                "mangledName": "$s10MetricCore0a6HealthB0V4textSSvg",
                 "moduleName": "MetricCore",
                 "implicit": true,
                 "accessorKind": "get"
@@ -124,14 +124,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "HekaCore",
-                "printedName": "MetricCore.HekaCore",
-                "usr": "s:10MetricCore04HekaB0V"
+                "name": "MetricHealthCore",
+                "printedName": "MetricCore.MetricHealthCore",
+                "usr": "s:10MetricCore0a6HealthB0V"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:10MetricCore04HekaB0VACycfc",
-            "mangledName": "$s10MetricCore04HekaB0VACycfc",
+            "usr": "s:10MetricCore0a6HealthB0VACycfc",
+            "mangledName": "$s10MetricCore0a6HealthB0VACycfc",
             "moduleName": "MetricCore",
             "declAttributes": [
               "AccessControl"
@@ -140,8 +140,8 @@
           }
         ],
         "declKind": "Struct",
-        "usr": "s:10MetricCore04HekaB0V",
-        "mangledName": "$s10MetricCore04HekaB0V",
+        "usr": "s:10MetricCore0a6HealthB0V",
+        "mangledName": "$s10MetricCore0a6HealthB0V",
         "moduleName": "MetricCore",
         "declAttributes": [
           "AccessControl"
@@ -446,8 +446,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "HekaManager",
-        "printedName": "HekaManager",
+        "name": "MetricManager",
+        "printedName": "MetricManager",
         "children": [
           {
             "kind": "Constructor",
@@ -456,14 +456,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "HekaManager",
-                "printedName": "MetricCore.HekaManager",
-                "usr": "s:10MetricCore11HekaManagerC"
+                "name": "MetricManager",
+                "printedName": "MetricCore.MetricManager",
+                "usr": "s:10MetricCore0A7ManagerC"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:10MetricCore11HekaManagerCACycfc",
-            "mangledName": "$s10MetricCore11HekaManagerCACycfc",
+            "usr": "s:10MetricCore0A7ManagerCACycfc",
+            "mangledName": "$s10MetricCore0A7ManagerCACycfc",
             "moduleName": "MetricCore",
             "declAttributes": [
               "AccessControl"
@@ -500,8 +500,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:10MetricCore11HekaManagerC20requestAuthorization10completionyySbc_tF",
-            "mangledName": "$s10MetricCore11HekaManagerC20requestAuthorization10completionyySbc_tF",
+            "usr": "s:10MetricCore0A7ManagerC20requestAuthorization10completionyySbc_tF",
+            "mangledName": "$s10MetricCore0A7ManagerC20requestAuthorization10completionyySbc_tF",
             "moduleName": "MetricCore",
             "declAttributes": [
               "AccessControl"
@@ -538,8 +538,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:10MetricCore11HekaManagerC11stopSyncing10completionyySbc_tF",
-            "mangledName": "$s10MetricCore11HekaManagerC11stopSyncing10completionyySbc_tF",
+            "usr": "s:10MetricCore0A7ManagerC11stopSyncing10completionyySbc_tF",
+            "mangledName": "$s10MetricCore0A7ManagerC11stopSyncing10completionyySbc_tF",
             "moduleName": "MetricCore",
             "declAttributes": [
               "AccessControl"
@@ -603,8 +603,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:10MetricCore11HekaManagerC17syncIosHealthData6apiKey8userUuid12lastSyncDate10completionySS_SS10Foundation0O0VSgySbctF",
-            "mangledName": "$s10MetricCore11HekaManagerC17syncIosHealthData6apiKey8userUuid12lastSyncDate10completionySS_SS10Foundation0O0VSgySbctF",
+            "usr": "s:10MetricCore0A7ManagerC17syncIosHealthData6apiKey8userUuid12lastSyncDate10completionySS_SS10Foundation0N0VSgySbctF",
+            "mangledName": "$s10MetricCore0A7ManagerC17syncIosHealthData6apiKey8userUuid12lastSyncDate10completionySS_SS10Foundation0N0VSgySbctF",
             "moduleName": "MetricCore",
             "declAttributes": [
               "AccessControl"
@@ -623,8 +623,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:10MetricCore11HekaManagerC16installObserversyyF",
-            "mangledName": "$s10MetricCore11HekaManagerC16installObserversyyF",
+            "usr": "s:10MetricCore0A7ManagerC16installObserversyyF",
+            "mangledName": "$s10MetricCore0A7ManagerC16installObserversyyF",
             "moduleName": "MetricCore",
             "declAttributes": [
               "AccessControl"
@@ -687,8 +687,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:10MetricCore11HekaManagerC29getAggregatedValueForDataType04dataJ09startDate03endM010completionySS_10Foundation0M0VAKySdSgctF",
-            "mangledName": "$s10MetricCore11HekaManagerC29getAggregatedValueForDataType04dataJ09startDate03endM010completionySS_10Foundation0M0VAKySdSgctF",
+            "usr": "s:10MetricCore0A7ManagerC29getAggregatedValueForDataType04dataI09startDate03endL010completionySS_10Foundation0L0VAKySdSgctF",
+            "mangledName": "$s10MetricCore0A7ManagerC29getAggregatedValueForDataType04dataI09startDate03endL010completionySS_10Foundation0L0VAKySdSgctF",
             "moduleName": "MetricCore",
             "declAttributes": [
               "AccessControl"
@@ -745,8 +745,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:10MetricCore11HekaManagerC16getMenstrualData9startDate03endI010completiony10Foundation0I0V_AJySaySo12NSDictionaryCGctF",
-            "mangledName": "$s10MetricCore11HekaManagerC16getMenstrualData9startDate03endI010completiony10Foundation0I0V_AJySaySo12NSDictionaryCGctF",
+            "usr": "s:10MetricCore0A7ManagerC16getMenstrualData9startDate03endH010completiony10Foundation0H0V_AJySaySo12NSDictionaryCGctF",
+            "mangledName": "$s10MetricCore0A7ManagerC16getMenstrualData9startDate03endH010completiony10Foundation0H0V_AJySaySo12NSDictionaryCGctF",
             "moduleName": "MetricCore",
             "declAttributes": [
               "AccessControl"
@@ -755,8 +755,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:10MetricCore11HekaManagerC",
-        "mangledName": "$s10MetricCore11HekaManagerC",
+        "usr": "s:10MetricCore0A7ManagerC",
+        "mangledName": "$s10MetricCore0A7ManagerC",
         "moduleName": "MetricCore",
         "declAttributes": [
           "AccessControl"
@@ -844,7 +844,7 @@
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HekaCore.swift",
       "kind": "StringLiteral",
-      "offset": 58,
+      "offset": 66,
       "length": 15,
       "value": "\"Hello, World!\""
     },
@@ -949,1134 +949,1134 @@
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 791,
+      "offset": 793,
       "length": 32,
       "value": "\"writing pending anchor updates\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 941,
+      "offset": 943,
       "length": 42,
       "value": "\"writing pending anchor update for \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 982,
+      "offset": 984,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "Dictionary",
-      "offset": 1080,
+      "offset": 1082,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 1167,
+      "offset": 1169,
       "length": 41,
       "value": "\"requesting authorization from healthkit\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 1274,
+      "offset": 1276,
       "length": 40,
       "value": "\"healthstore not found, returning false\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "BooleanLiteral",
-      "offset": 1340,
+      "offset": 1342,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "Array",
-      "offset": 1407,
+      "offset": 1409,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 1523,
+      "offset": 1525,
       "length": 46,
       "value": "\"request auth returned error, returning false\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "BooleanLiteral",
-      "offset": 1597,
+      "offset": 1599,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "BooleanLiteral",
-      "offset": 1628,
+      "offset": 1630,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "BooleanLiteral",
-      "offset": 1661,
+      "offset": 1663,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 1696,
+      "offset": 1698,
       "length": 46,
       "value": "\"request auth returned false, returning false\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "BooleanLiteral",
-      "offset": 1770,
+      "offset": 1772,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 1836,
+      "offset": 1838,
       "length": 35,
       "value": "\"stopping healthkit observer query\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 2121,
+      "offset": 2123,
       "length": 55,
       "value": "\"setting up healthkit observer query (public function)\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 2472,
+      "offset": 2474,
       "length": 39,
       "value": "\"we are in the observer query callback\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 2562,
+      "offset": 2564,
       "length": 44,
       "value": "\"error in observer query callback: \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 2605,
+      "offset": 2607,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 2779,
+      "offset": 2781,
       "length": 61,
       "value": "\"we are not connected, so ignoring the observer query update\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 2972,
+      "offset": 2974,
       "length": 26,
       "value": "\"executing observer query\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 3245,
+      "offset": 3247,
       "length": 60,
       "value": "\"a query in progress, so ignoring the observer query update\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 3350,
+      "offset": 3352,
       "length": 17,
       "value": "\"triggering sync\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "BooleanLiteral",
-      "offset": 3497,
+      "offset": 3499,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 3512,
+      "offset": 3514,
       "length": 27,
       "value": "\"marking query in progress\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 4113,
+      "offset": 4115,
       "length": 72,
       "value": "\"got the samples in the observer query callback, sending them to server\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "BooleanLiteral",
-      "offset": 4345,
+      "offset": 4347,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 4367,
+      "offset": 4369,
       "length": 29,
       "value": "\"unmarking query in progress\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 4580,
+      "offset": 4582,
       "length": 30,
       "value": "\"enabling background delivery\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 4789,
+      "offset": 4791,
       "length": 45,
       "value": "\"Enabled background delivery of step changes\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 4907,
+      "offset": 4909,
       "length": 57,
       "value": "\"Failed to enable background delivery of steps changes. \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 4984,
+      "offset": 4986,
       "length": 21,
       "value": "\"Error = \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 5004,
+      "offset": 5006,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 5378,
+      "offset": 5380,
       "length": 55,
       "value": "\"fetching data for various data types and combining it\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "Dictionary",
-      "offset": 5511,
+      "offset": 5513,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 6185,
+      "offset": 6187,
       "length": 24,
       "value": "\"getting menstrual data\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 6635,
+      "offset": 6637,
       "length": 32,
       "value": "\"Failed to fetch menstrual data\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "Array",
-      "offset": 6688,
+      "offset": 6690,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 6808,
+      "offset": 6810,
       "length": 6,
       "value": "\"uuid\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 6816,
+      "offset": 6818,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 6831,
+      "offset": 6833,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 6844,
+      "offset": 6846,
       "length": 6,
       "value": "\"flow\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 6876,
+      "offset": 6878,
       "length": 11,
       "value": "\"date_from\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 6934,
+      "offset": 6936,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 6951,
+      "offset": 6953,
       "length": 9,
       "value": "\"date_to\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 7005,
+      "offset": 7007,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 7022,
+      "offset": 7024,
       "length": 11,
       "value": "\"source_id\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 7092,
+      "offset": 7094,
       "length": 13,
       "value": "\"source_name\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 7152,
+      "offset": 7154,
       "length": 13,
       "value": "\"cycle_start\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 7184,
+      "offset": 7186,
       "length": 23,
       "value": "\"HKMenstrualCycleStart\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "BooleanLiteral",
-      "offset": 7221,
+      "offset": 7223,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 7259,
+      "offset": 7261,
       "length": 45,
       "value": "\"got \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 7285,
+      "offset": 7287,
       "length": 9,
       "value": "\" menstrual samples\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 7579,
+      "offset": 7581,
       "length": 83,
       "value": "\"getting aggregated value count for \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 7629,
+      "offset": 7631,
       "length": 4,
       "value": "\" from \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 7647,
+      "offset": 7649,
       "length": 2,
       "value": "\" to \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 7661,
+      "offset": 7663,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 8011,
+      "offset": 8013,
       "length": 7,
       "value": "\"steps\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 8101,
+      "offset": 8103,
       "length": 16,
       "value": "\"distance_moved\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 8229,
+      "offset": 8231,
       "length": 10,
       "value": "\"calories\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 8354,
+      "offset": 8356,
       "length": 18,
       "value": "\"exercise_minutes\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 8480,
+      "offset": 8482,
       "length": 16,
       "value": "\"floors_climbed\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 8600,
+      "offset": 8602,
       "length": 20,
       "value": "\"resting_heart_rate\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 8767,
+      "offset": 8769,
       "length": 8,
       "value": "\"weight\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 8887,
+      "offset": 8889,
       "length": 8,
       "value": "\"height\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 8975,
+      "offset": 8977,
       "length": 14,
       "value": "\"blood_oxygen\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 9148,
+      "offset": 9150,
       "length": 14,
       "value": "\"move_minutes\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 9347,
+      "offset": 9349,
       "length": 34,
       "value": "\"Invalid data type \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 9380,
+      "offset": 9382,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 9651,
+      "offset": 9653,
       "length": 33,
       "value": "\"Failed to fetch aggregated data\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 9744,
+      "offset": 9746,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 10063,
+      "offset": 10065,
       "length": 44,
       "value": "\"getting data for data type: \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 10106,
+      "offset": 10108,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 10475,
+      "offset": 10477,
       "length": 2,
       "value": "-7"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11153,
+      "offset": 11155,
       "length": 49,
       "value": "\"Error in getting \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11185,
+      "offset": 11187,
       "length": 4,
       "value": "\" data: \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11201,
+      "offset": 11203,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "Array",
-      "offset": 11223,
+      "offset": 11225,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "Array",
-      "offset": 11442,
+      "offset": 11444,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11487,
+      "offset": 11489,
       "length": 49,
       "value": "\"got \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11508,
+      "offset": 11510,
       "length": 7,
       "value": "\" samples for \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11535,
+      "offset": 11537,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11708,
+      "offset": 11710,
       "length": 6,
       "value": "\"uuid\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11716,
+      "offset": 11718,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11731,
+      "offset": 11733,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11746,
+      "offset": 11748,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11808,
+      "offset": 11810,
       "length": 11,
       "value": "\"date_from\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 11866,
+      "offset": 11868,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11885,
+      "offset": 11887,
       "length": 9,
       "value": "\"date_to\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 11939,
+      "offset": 11941,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 11958,
+      "offset": 11960,
       "length": 11,
       "value": "\"source_id\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 12030,
+      "offset": 12032,
       "length": 13,
       "value": "\"source_name\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 12214,
+      "offset": 12216,
       "length": 37,
       "value": "\"HKCategory Sample type data found: \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 12383,
+      "offset": 12385,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 12527,
+      "offset": 12529,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 12670,
+      "offset": 12672,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 12822,
+      "offset": 12824,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 12974,
+      "offset": 12976,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 13119,
+      "offset": 13121,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 13268,
+      "offset": 13270,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 13415,
+      "offset": 13417,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 13533,
+      "offset": 13535,
       "length": 6,
       "value": "\"uuid\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 13541,
+      "offset": 13543,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 13556,
+      "offset": 13558,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 13571,
+      "offset": 13573,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 13606,
+      "offset": 13608,
       "length": 11,
       "value": "\"date_from\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 13664,
+      "offset": 13666,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 13683,
+      "offset": 13685,
       "length": 9,
       "value": "\"date_to\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 13737,
+      "offset": 13739,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 13756,
+      "offset": 13758,
       "length": 11,
       "value": "\"source_id\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 13828,
+      "offset": 13830,
       "length": 13,
       "value": "\"source_name\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14002,
+      "offset": 14004,
       "length": 29,
       "value": "\"HKWorkout type data found: \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14139,
+      "offset": 14141,
       "length": 6,
       "value": "\"uuid\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14147,
+      "offset": 14149,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14162,
+      "offset": 14164,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14177,
+      "offset": 14179,
       "length": 21,
       "value": "\"workoutActivityType\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14348,
+      "offset": 14350,
       "length": 19,
       "value": "\"totalEnergyBurned\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14447,
+      "offset": 14449,
       "length": 23,
       "value": "\"totalEnergyBurnedUnit\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14472,
+      "offset": 14474,
       "length": 13,
       "value": "\"KILOCALORIE\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14499,
+      "offset": 14501,
       "length": 15,
       "value": "\"totalDistance\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14584,
+      "offset": 14586,
       "length": 19,
       "value": "\"totalDistanceUnit\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14605,
+      "offset": 14607,
       "length": 7,
       "value": "\"METER\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14626,
+      "offset": 14628,
       "length": 11,
       "value": "\"date_from\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 14684,
+      "offset": 14686,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14703,
+      "offset": 14705,
       "length": 9,
       "value": "\"date_to\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "IntegerLiteral",
-      "offset": 14757,
+      "offset": 14759,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14776,
+      "offset": 14778,
       "length": 11,
       "value": "\"source_id\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14848,
+      "offset": 14850,
       "length": 13,
       "value": "\"source_name\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "StringLiteral",
-      "offset": 14984,
+      "offset": 14986,
       "length": 16,
       "value": "\"Nothing found!\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HealthStore\/HealthStore.swift",
       "kind": "Array",
-      "offset": 15021,
+      "offset": 15023,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 435,
-      "length": 14,
-      "value": "\".hekaSDKData\""
+      "offset": 437,
+      "length": 16,
+      "value": "\".metricSDKData\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 476,
-      "length": 13,
-      "value": "\"hekaSDKData\""
+      "offset": 480,
+      "length": 15,
+      "value": "\"metricSDKData\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 560,
+      "offset": 566,
       "length": 9,
       "value": "\".anchor\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 664,
+      "offset": 670,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 689,
+      "offset": 695,
       "length": 32,
       "value": "\"Getting anchor for \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 720,
+      "offset": 726,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 986,
+      "offset": 992,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1011,
+      "offset": 1017,
       "length": 32,
       "value": "\"Setting anchor for \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1042,
+      "offset": 1048,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 1162,
+      "offset": 1168,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1308,
+      "offset": 1314,
       "length": 23,
       "value": "\"Getting keychain data\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1511,
+      "offset": 1517,
       "length": 23,
       "value": "\"Setting keychain data\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1732,
+      "offset": 1738,
       "length": 34,
       "value": "\"marking first upload in keychain\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1826,
+      "offset": 1832,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1836,
+      "offset": 1842,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 1851,
+      "offset": 1857,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2080,
+      "offset": 2086,
       "length": 31,
       "value": "\"marking connected in keychain\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2171,
+      "offset": 2177,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2181,
+      "offset": 2187,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2196,
+      "offset": 2202,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2246,
+      "offset": 2252,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2424,
+      "offset": 2430,
       "length": 34,
       "value": "\"marking disconnected in keychain\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2518,
+      "offset": 2524,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2528,
+      "offset": 2534,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2543,
+      "offset": 2549,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2593,
+      "offset": 2599,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2617,
+      "offset": 2623,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2636,
+      "offset": 2642,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/KeychainHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2837,
+      "offset": 2843,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HekaManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 427,
+      "offset": 431,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HekaManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 959,
+      "offset": 963,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/HekaManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1003,
+      "offset": 1007,
       "length": 5,
       "value": "false"
     },
@@ -3365,76 +3365,76 @@
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/JSONFileHandler.swift",
       "kind": "StringLiteral",
       "offset": 227,
-      "length": 32,
-      "value": "\"heka_\""
+      "length": 34,
+      "value": "\"metric_\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/JSONFileHandler.swift",
       "kind": "StringLiteral",
-      "offset": 253,
+      "offset": 255,
       "length": 1,
       "value": "\".json\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/JSONFileHandler.swift",
       "kind": "StringLiteral",
-      "offset": 440,
+      "offset": 442,
       "length": 38,
       "value": "\"Cannot locate the document directory\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/JSONFileHandler.swift",
       "kind": "StringLiteral",
-      "offset": 851,
+      "offset": 853,
       "length": 29,
       "value": "\"Cannot convert data to json\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/JSONFileHandler.swift",
       "kind": "StringLiteral",
-      "offset": 955,
+      "offset": 957,
       "length": 30,
       "value": "\"Cannot loacate the file at: \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/JSONFileHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1015,
+      "offset": 1017,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/JSONFileHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 1175,
+      "offset": 1177,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/JSONFileHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1263,
+      "offset": 1265,
       "length": 40,
       "value": "\"Cannot write data to file with error: \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/JSONFileHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1402,
+      "offset": 1404,
       "length": 30,
       "value": "\"Cannot loacate the file at: \""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/JSONFileHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1462,
+      "offset": 1464,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/pulkitgoyal\/heka\/MetricCoreInternal\/MetricCore\/HekaCore\/JSONFileHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1575,
+      "offset": 1577,
       "length": 51,
       "value": "\"Cannot delete the userdata json file with error: \""
     },

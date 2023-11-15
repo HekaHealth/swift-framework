@@ -17,7 +17,7 @@ public struct ConnectedPlatform {
 public struct Connection {
   public func isPlatformConnected(platform: Swift.String) -> Swift.Bool
 }
-public struct HekaCore {
+public struct MetricHealthCore {
   public var text: Swift.String {
     get
   }
@@ -30,7 +30,7 @@ public struct ConnectionClient {
   public func connectToServer(forUserWithEmail userEmail: Swift.String? = nil, and googleFitRefreshToken: Swift.String? = nil, with completion: @escaping MetricCore.ConnectionCompletion)
   public func disconnect(with completion: @escaping MetricCore.ConnectionCompletion)
 }
-public class HekaManager {
+public class MetricManager {
   public init()
   public func requestAuthorization(completion: @escaping (Swift.Bool) -> Swift.Void)
   public func stopSyncing(completion: @escaping (Swift.Bool) -> Swift.Void)
