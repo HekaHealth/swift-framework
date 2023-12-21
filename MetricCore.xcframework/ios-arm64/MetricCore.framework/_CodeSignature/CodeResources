@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/MetricCore-Swift.h</key>
 		<data>
-		oE6FD1YMkvHnqY9WjCVITM5Lo+Q=
+		v2bWJtMNtytHX9mEOKD1sPqV6AE=
 		</data>
 		<key>Headers/MetricCore.h</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rhxAdu27Wmw1U3m53yfbdidZHZw=
+		K64ouU+GK3Obqwa9TSYeETIg1Pg=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		9nvnsXlfIQl6iR1cdumoJs2kCZg=
+		rmG+G12nuMnrbwqEgN2woIHrSI4=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		TO1QqwgwC4EzZXgGXMITxdI6ynY=
+		7xpovCP6ILjmHhAOb/jDMoHQoM0=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		YFUZsiE3Z1DkAWrdgRwNTadQ0xM=
+		S0VhB6j9c0Bjqt8Zbib7rRiA9dw=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		TO1QqwgwC4EzZXgGXMITxdI6ynY=
+		7xpovCP6ILjmHhAOb/jDMoHQoM0=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		t1zYb3p+zRk/qVBIH8RQwx6ODfs=
+		2dUbl19Dr2ek5N73gM4iekDBjlo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WuOFE+UU77r54PKmiDyBPIQtaULUD3yFu2z8eMsJP8M=
+			WfrLom6ksGm0L3hu9fWaESpX+hGbrDdi9PVCLrxazZ8=
 			</data>
 		</dict>
 		<key>Headers/MetricCore.h</key>
@@ -61,35 +61,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YkdJTM66Uhzo5oTFNzDks0R603DUEGHX/DPnERU3724=
+			3y1Bg5avEb3ZuWHwAEWSXxjzgBUjb8mKWuP/timO+HA=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ku/wL/fD2uDUg8WXHdqAHrzTdVE8YH5AK28GM2Aeo60=
+			vIeBY05P3x1Tq7VijKVDgaEEhqnv7+vWEaK/B6pc0Ss=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EvNKtpAJ6rK2SrpeiktV7PXGyGGCgohBPkM4nOtHa5o=
+			+03eHAipH1ve+ZK4E/0ZwDqSAJfW3QkzW1tcUl/IsA8=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ku/wL/fD2uDUg8WXHdqAHrzTdVE8YH5AK28GM2Aeo60=
+			vIeBY05P3x1Tq7VijKVDgaEEhqnv7+vWEaK/B6pc0Ss=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XaXdzyw7oi2lROiBit/WUIR/GXYC/YQtgtUx088nDAc=
+			Y2FsWINFlvBZ8J4EJoHmyptgbFvBsPHwVs8aCE7ddIY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

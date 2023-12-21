@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/MetricCore-Swift.h</key>
 		<data>
-		jCnizK9XYgFZSMkv6cvU3IceYWc=
+		GJzW0ufsAuvcQ6pKHgmzyFUFGzA=
 		</data>
 		<key>Headers/MetricCore.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		B+mpphIY2dfp8x5EsZfTl1puzFo=
+		MRWHVY58PfC89dhZPYYqTcu4YP0=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		9nvnsXlfIQl6iR1cdumoJs2kCZg=
+		rmG+G12nuMnrbwqEgN2woIHrSI4=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		WFlN9xdFWudt7plbtINtkVUEiv8=
+		poWv5kMPeB8HopfO+kktUYL6GCg=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		OVBYgwaZHzMdTOhJNwM/cWnhZhE=
+		GXlVZuUNUsMLxDOmtbh54eWTJgw=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WFlN9xdFWudt7plbtINtkVUEiv8=
+		poWv5kMPeB8HopfO+kktUYL6GCg=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PjRYF68gRsVZNb4Xy8MjsWMf9NU=
+		IWgN2SM/xgyb0QtWT8I2R2oNZxM=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		9nvnsXlfIQl6iR1cdumoJs2kCZg=
+		rmG+G12nuMnrbwqEgN2woIHrSI4=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		39tnpN2EL38vQoiTgKHiXAYLGdU=
+		IT/k+x+fPXxBPA67xu06sLYk9aI=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		amjOhuT2j7UD9J2N5qW4R48SCUQ=
+		le9vib014WSjVetN0KqdChn+j9E=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		39tnpN2EL38vQoiTgKHiXAYLGdU=
+		IT/k+x+fPXxBPA67xu06sLYk9aI=
 		</data>
 		<key>Modules/MetricCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pMIs1cRMHMMvBg3nFKq7rJ0QuYg=
+		Y6p6f2lX472/rRyFMPVIFMPUJjE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5EG1upauKX72w+0q8ui/xpBEAgOpKkBrCIDqEYKq3Gs=
+			gKXHbOFBANXjblpZTIXYVEg2xmKjhzt32HZpBf+1r6k=
 			</data>
 		</dict>
 		<key>Headers/MetricCore.h</key>
@@ -81,70 +81,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YkdJTM66Uhzo5oTFNzDks0R603DUEGHX/DPnERU3724=
+			3y1Bg5avEb3ZuWHwAEWSXxjzgBUjb8mKWuP/timO+HA=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dw2lhzO24YqmAUe3954s/pTrUvNMVisfcDFVFPswstg=
+			tdvWg7xvTfbvF0PthWQKoMWABrdfGGefx6EZZ+6w2vk=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PzvsRitYEj10SsoHsgwnaIBLH0+WctIJDNFtimAMKL4=
+			BQN+pzTQLn4sf2mp3NNmerp8Xua5DO8txWc5W30rPpU=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dw2lhzO24YqmAUe3954s/pTrUvNMVisfcDFVFPswstg=
+			tdvWg7xvTfbvF0PthWQKoMWABrdfGGefx6EZZ+6w2vk=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6INlF7Vx3sk7vw0p47bg1SAodmyXRT4oED6ye5XoXE4=
+			qzcs0EY3YpdLtUmORncMog9l8aMtBEwWdC0mQywdnAQ=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YkdJTM66Uhzo5oTFNzDks0R603DUEGHX/DPnERU3724=
+			3y1Bg5avEb3ZuWHwAEWSXxjzgBUjb8mKWuP/timO+HA=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F9IeWivxMEjwWKMF02vtmTZM/DN2WJ2MPjvaN3LtZtQ=
+			nu03UQGZ+P83nuVIemzkSV8jflvtmNaBh7EtSLtxrLQ=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Xe2Usxe+zlRGzqQwTjU3O++9q3u5ACGIi+DFpQfClU=
+			FELAuYYgH5KCEXAw8dsMVyvC+NJLgBp3PZj7Z2DX0eo=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F9IeWivxMEjwWKMF02vtmTZM/DN2WJ2MPjvaN3LtZtQ=
+			nu03UQGZ+P83nuVIemzkSV8jflvtmNaBh7EtSLtxrLQ=
 			</data>
 		</dict>
 		<key>Modules/MetricCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wMqUNxpGEe3f4YuygR6Sek8eyAUfMSmgfczJW+rt8AM=
+			Y+TMoIvmP1nATFd7QxTCWuIJw2Dj0msiu/fr2uBrT14=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
