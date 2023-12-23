@@ -38,6 +38,7 @@ public class MetricManager {
   public func installObservers()
   public func getAggregatedValueForDataType(dataType: Swift.String, startDate: Foundation.Date, endDate: Foundation.Date, completion: @escaping (Swift.Double?) -> Swift.Void)
   public func getMenstrualData(startDate: Foundation.Date, endDate: Foundation.Date, completion: @escaping ([Foundation.NSDictionary]) -> Swift.Void)
+  public func getDateWiseData(dataType: Swift.String, startDate: Foundation.Date, endDate: Foundation.Date, completion: @escaping ([Foundation.NSDictionary]) -> Swift.Void)
   @objc deinit
 }
 public func getDeviceId() -> Swift.String

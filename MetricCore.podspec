@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'MetricCore'
-    s.version          = '0.2.1'
+    s.version          = '0.2.2'
     s.summary          = 'Integrate fitness data sources into your app.'
     s.homepage         = 'https://www.metric.health'
     s.license          = { :type => 'GNU AGPL', :file => 'LICENSE' }
